@@ -614,13 +614,13 @@ h1{
 }
 
 .box .row.header {
-  flex: 0 1 3vh;
+  flex: 0 1 2vh;
 }
 
 .box .row.content {
-  flex: 1 1 auto;
+  flex: 1 1 93vh;
 }
 
 .box .row.footer {
-  flex: 0 1 3vh;
+  flex: 0 1 5vh;
 }
