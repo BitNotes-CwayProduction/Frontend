@@ -614,7 +614,7 @@ h1{
 }
 
 .box .row.header {
-  flex: 0 1 20px;
+  flex: 0 1 3vh;
 }
 
 .box .row.content {
@@ -622,5 +622,5 @@ h1{
 }
 
 .box .row.footer {
-  flex: 0 1 40px;
+  flex: 0 1 3vh;
 }
