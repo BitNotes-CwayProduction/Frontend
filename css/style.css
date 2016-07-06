@@ -1486,9 +1486,9 @@ span.glyphicon.glyphicon-user {
   padding: 14em 0 10em 0;
 }
 .phouse-banner{
-background: url(../images/phouse.jpg) no-repeat 0px 0px;
-  background-size: cover;
-  padding: 14em 0 10em 0;
+		background: url(../images/phouse.jpg) no-repeat -118px 0px !important;
+		background-size: cover !important;
+		padding: 3em 0;
 }
 
 .developers-info {
