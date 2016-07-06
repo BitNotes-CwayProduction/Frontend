@@ -3,6 +3,22 @@ body{
 	font-size:100%;
 	font-family: 'Open Sans', sans-serif;
 }
+.suggestions
+
+{
+  float:right;
+  height: 100%;
+  width:33.33%; 
+  padding:3px; 
+  background:#ffffff;
+}
+.content-suggestions
+{
+	height:40em;
+    overflow:auto;
+    background:#fff;
+}
+
 body a {
   transition: 0.5s all;
   -webkit-transition: 0.5s all;																																												
@@ -1494,7 +1510,7 @@ background: url(../images/phouse.jpg) no-repeat 0px 0px;
 }
 .phouse-short-info h3{
     color: #FFF;
-    font-size: 38px;
+    font-size: 36px;
     margin-left:25%;
 }
 .phouse-short-info p{
@@ -2044,6 +2060,10 @@ background: url(../images/social.png) no-repeat 0px 0px;
 		width: 33.33% !important;
 		float: left !important;
 	}
+	.slider-top-grids-phouse{
+	width:100% !important;
+	float:left !important;
+	}
 	.side-bottom {
 	    position: inherit;
 		padding: 2em 0;
@@ -2407,6 +2427,10 @@ background: url(../images/social.png) no-repeat 0px 0px;
 	.slider-top-grids {
 		width: 100% !important;
 		float: none !important;
+	}
+	.slider-top-grids-phouse{
+	width:100% !important;
+	float:left !important;
 	}
 	.recommended-grid-info ul li {
 		width: 49%;
