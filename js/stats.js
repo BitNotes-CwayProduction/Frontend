@@ -1,4 +1,4 @@
-
+//Comment Stats.js
 $('#nav_li_1').click(function(){
   $('.tl-current').removeClass('tl-current');
   $(this).addClass('tl-current');
